@@ -1,0 +1,14 @@
+# Core Dependencies for SurrealTools.py
+colorama>=0.4.6
+
+# Network Tools (Options 01-06)
+requests>=2.31.0
+scapy>=2.5.0
+
+# OSINT & Search Tools (Options 11-15)
+phonenumbers>=8.13.0
+beautifulsoup4>=4.12.0
+
+# Utilities (Options 09, 19-20)
+Pillow>=10.0.0
+cryptography>=41.0.0
