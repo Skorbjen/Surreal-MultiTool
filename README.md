@@ -78,8 +78,8 @@ Bash
 python `SurrealTools.py`
 
 **🔐 Login-Daten**
-Passwort: surreal
-Maximale Versuche: 3
+    Passwort: `surreal`
+    Maximale Versuche: 3
 
 **👤 Credits**
 Developer: isrt
