@@ -87,4 +87,4 @@ Developer: isrt
 GitHub: github.com/skorbjen
 Website: skorbjen.github.io/portfolio
 
-## IST EIN REDTIGER ABGKLATSCH!!!!!
+## IST EIN REDTIGER ABKLATSCH!!!!!
